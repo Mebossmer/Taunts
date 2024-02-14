@@ -2,9 +2,9 @@
 {
   "modid": "taunts",
   "name": "Taunts",
-  "description": "",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "description": "Taunts system similar to Age Of Empires 2",
+  "version": "1.0",
+  "mcversion": "1.12.x",
   "url": "",
   "updateUrl": "",
   "authorList": ["Mebossmer"],
