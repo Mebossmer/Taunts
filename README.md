@@ -16,3 +16,5 @@ Play sounds when typing numbers into chat
             minecraft:block.dispenser.dispense # taunt #2
         >
     }
+
+You can also add custom taunts by adding your own sound events using resource packs.
